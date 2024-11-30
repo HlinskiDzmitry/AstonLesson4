@@ -10,7 +10,7 @@ public class AstonLesson4 {
             System.out.println("Задание 5");
             System.out.println(b);
         };
-        testSix(5);
+        testSix(6);
         boolean b1 = testSeven(0);{
             System.out.println("Задание 7");
             System.out.println(b1);
